@@ -24,7 +24,6 @@ class CastMedia {
     return {
       'type': 'LOAD',
       'autoPlay': autoPlay,
-      'currentTime': position,
       'activeTracks': [],
       'media': {
         'contentId': contentId,
