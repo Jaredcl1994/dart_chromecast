@@ -31,7 +31,7 @@ class CastMedia {
         'contentType': contentType,
         'images': images,
         'title': title,
-        'streamType': 'BUFFERED',
+        'streamType': 'LIVE',
       }
     };
   }
