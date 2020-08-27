@@ -12,7 +12,7 @@ class CastMedia {
     this.title,
     this.autoPlay = true,
     this.position = 0.0,
-    this.contentType = 'video/mp4',
+    this.contentType = 'video/H264',
     this.images,
   }) {
     if (null == images) {
